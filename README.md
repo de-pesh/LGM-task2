@@ -9,8 +9,8 @@ Key Points:
 
 -	Memory Cell: Stores long-term information.
 -	Gates:
--	 orget Gate: Decides what to forget.
--	 put Gate: Decides what new information to store.
+-	  Forget Gate: Decides what to forget.
+ 	  put Gate: Decides what new information to store.
 - Output Gate: Decides what to output.
 -	Useful for tasks like text generation, time series prediction, and speech recognition.
 
